@@ -1,0 +1,24 @@
+Hands-On Assignment 3 Manifest
+Course: Advance Artificial Intelligence (MSCS-633-M50)
+Term: Spring 2026
+Assignment: Create a Simple Q&A Chatbot with Python (Django + ChatterBot)
+
+Project folder: deliverables/
+
+Included files:
+1. chatbot.py
+   - Terminal-based Q&A chatbot using ChatterBot.
+   - Includes clear functions, comments, and argument support (`--retrain`).
+2. requirements.txt
+   - Dependency list for reproducible setup.
+3. wheels/
+   - Local dependency wheel cache for offline-first installation.
+   - Built for Windows x64 Python 3.10 (`cp310`).
+4. manifest.txt
+   - This file.
+5. run_chatbot.bat
+   - Windows launcher for easier execution.
+6. README.md
+   - Setup, run instructions, and submission checklist.
+7. Screenshot 2026-03-06 215805.png
+   - Example interaction image
